@@ -64,7 +64,7 @@ function withNewAction(actions, action) {
 
 function generateSuggestText(actions) {
   const { from } = last(actions.items).actionObject
-  return `Would like select all messages from ${from}?` // todo: inflector
+  return `💡 Select all messages from ${from}?` // todo: inflector
 }
 
 function last(array) {

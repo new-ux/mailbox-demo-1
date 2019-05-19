@@ -18,7 +18,7 @@ const store = new Vuex.Store({
         6: { from: 'facebook', subject: 'news of your friends, you must see' },
         7: { from: 'facebook', subject: 'play the game' },
         8: { from: 'apple', subject: 'revolution again!' },
-        9: { from: 'google', subject: 'install our brend new messenger' },
+        9: { from: 'google', subject: 'install our brand new messenger' },
       },
       ui: {},
       loading: false,
