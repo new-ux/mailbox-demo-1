@@ -1,5 +1,18 @@
 # repeating-pattern-demo
 
+
+
+<img width="998" alt="Screenshot 2019-05-19 at 12 17 36" src="https://user-images.githubusercontent.com/6201068/57980177-20462e80-7a30-11e9-8825-f24ce66712f0.png">
+
+
+
+
+
+----
+
+
+
+
 ## Project setup
 ```
 yarn install
