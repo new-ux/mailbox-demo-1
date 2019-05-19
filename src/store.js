@@ -8,7 +8,7 @@ Vue.use(Vuex)
 const store = new Vuex.Store({
   state: {
     letters: {
-      items: [1, 2, 3, 4, 5, 6, 7],
+      items: [1, 2, 3, 4, 5, 6, 7, 8, 9],
       data: {
         1: { from: 'facebook', subject: '2 new friend requests' },
         2: { from: 'facebook', subject: '1 new friend requests' },
@@ -17,6 +17,8 @@ const store = new Vuex.Store({
         5: { from: 'facebook', subject: '89 new comments' },
         6: { from: 'facebook', subject: 'news of your friends, you must see' },
         7: { from: 'facebook', subject: 'play the game' },
+        8: { from: 'apple', subject: 'revolution again!' },
+        9: { from: 'google', subject: 'install our brend new messenger' },
       },
       ui: {},
       loading: false,
