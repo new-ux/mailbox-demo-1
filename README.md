@@ -1,4 +1,4 @@
-# repeating-pattern-demo
+# repeating-pattern-demos: 1 simple mailbox
 
 
 
